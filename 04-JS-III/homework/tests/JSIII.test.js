@@ -61,7 +61,7 @@ describe('agregarItemAlFinalDelArray(arr, item)', function() {
   });
 });
 
-describe('agregarItemAlComienzoDelArray(arr, item)', function() {
+describe('agregarItemAlComienzoDelArray(arr, elemento)', function() {
   it('should return the array with the item added to the front', function() {
     expect(agregarItemAlComienzoDelArray([10, 10, 16, 12], 10)).toEqual([10, 10, 10, 16, 12]);
     expect(agregarItemAlComienzoDelArray([97, 100, 80, 55, 72, 94], 'Hola')).toEqual(['Hola', 97, 100, 80, 55, 72, 94]);

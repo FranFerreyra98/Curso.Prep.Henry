@@ -1,0 +1,1 @@
+Arrays: es una lista en la cual podemos almacenar la cantidad de elementos que deseemos. Se puede determinar por defecto o se puede crear un arreglo vacio e ir llenandola de elementos a medida que se desea.
