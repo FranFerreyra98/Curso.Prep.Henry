@@ -1,0 +1,5 @@
+* Objetos: son lugares en los cual se puede almacenar mucha informacion acerca de un mismo topico
+* Propiedades: son las caracteristicas o distintos elementos que describen al objeto
+* Métodos: funcion que guardamos dentro de un objeto
+* Bucle `for…in`: es el tipo de bucle utilizado para recorrer los objetos
+* Notación de puntos vs notación de corchetes: son distintos tipos de notaciones por la cual podemos invocar o hacer referencia a las propiedades de un objeto 
