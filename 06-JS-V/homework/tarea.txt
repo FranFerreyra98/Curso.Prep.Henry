@@ -1,0 +1,2 @@
+Prototype: es un mecanismo por el cual los objetos en javascritp heredan caracteristicas entre si
+Constructor : es un mecanismo por el cual armamos una plantilla de objeto creado a partir de una clase
